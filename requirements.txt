@@ -24,6 +24,7 @@ numpy==1.23.5
     #   pandas
     #   scipy
     #   seaborn
+packaging==21.3
     # via matplotlib
 pandas==1.5.1
     # via
